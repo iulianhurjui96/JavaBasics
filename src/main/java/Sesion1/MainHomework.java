@@ -10,7 +10,7 @@ public class MainHomework {
             //todo - Itereaza lista si printeaza toate prenumele care contin litera "a" in prenume;
             //Exercitiu 2
             //todo - Creeaza un vector de double
-            //todo - Adauga in vector 4 double-uri [10.5, 16.8, 21.5, 24.5, 19.5, 20.00]
+            //todo - Adauga in vector 6 double-uri [10.5, 16.8, 21.5, 24.5, 19.5, 20.00]
             //todo - Itereaza vectorul si printeaza toate numerele >= 10 si <=20 rotunjite ca un integer (e.g. 10.5 -> 10, 16.8 -> 16)
             //Exercitiu 3
             //todo - Avand urmatorul detaliu: Cerc cu un diametru de 7
