@@ -30,5 +30,6 @@ public class MainHomework {
             //todo - Daca sunt 7: Printeaza "Vaslui"
             //todo - Default : "Pascani"
             //todo - Foloseste instructiunea de switch case
+        //
     }
 }
